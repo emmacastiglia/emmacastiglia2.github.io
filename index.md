@@ -4,7 +4,10 @@ feature_text: |
   ## Emma Castiglia
  Welcome to my personal website
 feature_image: "https://picsum.photos/1300/400?image=989"
+excerpt: "this is fun"
 ---
+
+
 
 I am a 6th year Ph.D. Candidate in Physics at Yale University.
 
