@@ -4,8 +4,8 @@ feature_text: |
   ## Emma Castiglia
  Welcome to my personal website
 feature_image: "https://picsum.photos/1300/400?image=989"
-
 ---
+
 I am a 6th year Ph.D. Candidate in Physics at Yale University.
 
 {% include button.html text="LinkedIn" icon="linkedin" link="https://www.linkedin.com/in/emma-castiglia-298461105/" color="#0366d6" %} {% include button.html icon ="twitter" text="Twitter" link="https://twitter.com/emmacastiglia" color="#0d94e7" %} 
